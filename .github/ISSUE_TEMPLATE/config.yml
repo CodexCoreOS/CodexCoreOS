@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Codex Core profile feedback
+    url: https://github.com/CodexCoreOS/CodexCoreOS
+    about: Use issues in this repository for profile and public GitHub structure feedback.
